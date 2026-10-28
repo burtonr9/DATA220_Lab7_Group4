@@ -1,0 +1,3 @@
+"station_code","climate_id","station_name","elevation_m","site_type"
+"EDM-A","CLASS-A01","EDMONTON STATION A",723,"airport"
+"EDM-B","CLASS-B02","EDMONTON STATION B",671,"city centre"
