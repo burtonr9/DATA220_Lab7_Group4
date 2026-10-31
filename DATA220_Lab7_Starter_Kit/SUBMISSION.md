@@ -7,7 +7,7 @@ here and in `project/config.R` (source and table owners).
 
 **Project title:** TODO
 
-**GitHub repository:** TODO (paste the https://github.com/... link)
+**GitHub repository:** https://github.com/burtonr9/DATA220_Lab7_Group4
 
 ## Team members
 
